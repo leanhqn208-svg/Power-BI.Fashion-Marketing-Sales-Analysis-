@@ -58,12 +58,8 @@ To ensure this dashboard delivers real business value rather than just displayin
 <br>
 
 #### Part 2: Dashboard Information Architecture
-To avoid overwhelming the users, I structured the dashboard into three distinct pages based on the level of detail required for decision-making:
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c1120fcc-228a-49be-8429-3f54ca2a7b00" />
 
-| Information Tier | Page 1: Overview | Page 2: Campaign Performance | Page 3: Product Performance |
-| :--- | :--- | :--- | :--- |
-| **Critical Info (Top KPIs)** | Total Budget, Total Spend, Total Revenue, Utilization %, Account ROAS | Campaign Spend, Campaign Revenue, Campaign ROAS, CTR, CPC, CPM | Cost Allocation by SKU, ROAS by SKU, Ads Sales by SKU |
-| **Important Info (Trends & Breakdowns)** | Spend vs Revenue by Day, Total Spend & Budget Utilization by Campaign | CTR & CPC Trends by Week, Conversion Funnel (Impression ➔ Click ➔ Inbox) | Top Products by SKU, Ads Revenue by Category & Material |
 
 ## 📊 Key Insights & Visualizations  
 
