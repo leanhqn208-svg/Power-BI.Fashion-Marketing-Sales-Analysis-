@@ -1,4 +1,5 @@
-# Fashion-Marketing-Sales-Analysis
+# [Power BI] Fashion Marketing Sales Analysis 
+
 
 ## Table of Contents
 
