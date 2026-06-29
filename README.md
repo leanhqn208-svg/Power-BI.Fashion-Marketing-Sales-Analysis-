@@ -75,7 +75,7 @@ To ensure this dashboard delivers real business value rather than just displayin
 
 To solve the business problem, I established the core metrics and analytical perspectives required for the dashboard.
 
-* **North Star Metrics:** **ROAS (Return on Ad Spend)** & **Profit Margin**. These metrics perfectly bridge the gap between marketing expenses and actual sales performance.
+* **North Star Metrics:** **ROAS (Return on Ad Spend)** . This metric perfectly bridge the gap between marketing expenses and actual sales performance.
 * **Key Analytical Perspectives (Dimensions):**
     * **Overview (Time Trends):** Evaluating the overall health of marketing campaigns and budget pacing over time.
     * **Campaign Level:** Analyzing ad efficiency (CTR, CPC, Cost per Inbox) to identify the most cost-effective campaigns.
