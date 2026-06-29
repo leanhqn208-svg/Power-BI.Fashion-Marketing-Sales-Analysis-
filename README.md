@@ -75,6 +75,7 @@ To ensure this dashboard delivers real business value rather than just displayin
 
 #### 2️⃣ Dashboard 2 Preview 
 <img width="1143" height="639" alt="image" src="https://github.com/user-attachments/assets/695003db-41ab-4279-8c95-24f3b176db76" />
+
 **Observation:** The funnel shows a big gap between Impressions (5.11M) and Clicks (0.04M), leading to a low CTR of 0.82%. The Scatter Plot shows that as we show ads more, the cost (CPM) goes up, making it more expensive to reach new people.
 
 **Recommendation:** Focus on testing new ad images to push the CTR above 1%. Spend more on the Váy Chiết Eo Ôm category (highest CTR 1.11% and ROAS 26.23) and stop spending on Chân Váy Tách Set due to its low performance (CTR 0.55%).
