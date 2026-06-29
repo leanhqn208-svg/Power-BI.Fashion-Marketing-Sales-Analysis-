@@ -85,16 +85,6 @@ To solve the business problem, I established the core metrics and analytical per
     * ROAS improves with higher ad engagement quality (higher CTR, lower Cost per Interaction).
     * ROAS improves when total revenue scales faster than the overall ad spend.
  
-### 3️⃣ Ideate (Brainstorming & Dashboard Architecture)
-
-In this stage, I translated the business requirements into actionable hypotheses and mapped out the information architecture for the dashboard to ensure a logical user flow (from macro to micro).
-
-#### Part 1: Brainstorming Business Hypotheses
-| Objective | Overview (Time Trends) | Campaign Efficiency | Product (SKU) Level | Traffic & Engagement |
-| :--- | :--- | :--- | :--- | :--- |
-| **Optimize Marketing Spend** | Daily ROAS fluctuates significantly, needing close monitoring. | Daily spend is unstable, leading to inconsistent revenue. | High spend on certain days yields disproportionately low revenue. | Monitor customer interaction frequency and cost (CPC). |
-| **Maximize ROAS** | Identify macroeconomic trends affecting overall purchasing power. | Highlight campaigns that spend heavily but generate low revenue. | Top-spending campaigns consume the majority of the budget. | Shift budget from "cash-burning" campaigns to high-converting ones. |
-
 <br>
 
 #### Part 2: Dashboard Information Architecture
