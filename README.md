@@ -49,41 +49,11 @@ These connect to shared Dimension tables for dates, products, and campaigns.
 
 To ensure this dashboard delivers real business value rather than just displaying raw numbers, I applied a structured Design Thinking approach. This helped bridge the gap between technical data modeling and the actual needs of the business stakeholders (Marketing & Sales Managers).
 ## 1️⃣ Empathize
-### 5W1H Problem Statement
-
-| Dimension | Question | Core Finding |
-| :--- | :--- | :--- |
-| **WHO** | Who is experiencing the problem? | Marketing Managers & Performance Marketing Specialists. |
-| **WHAT** | What is the exact issue? | Inability to track the conversion funnel (Click ➔ Inbox ➔ Sale) and calculate true **ROAS per SKU**. |
-| **WHY** | Why does it matter? | To stop wasting budget on underperforming campaigns and scale profitable products. |
-| **WHEN / WHERE** | When do they need this data? | During daily campaign performance reviews and real-time budget optimization. |
-| **HOW** | How will this dashboard help? | By providing a centralized view of key metrics (Spend, Revenue, ROAS) to enable fast, data-driven decisions. |
-
-### Empathy Map: Marketing Stakeholders
-
-
-| Quadrant | User Insight (Based on Stakeholder Context) |
-| :--- | :--- |
-| **Thinking & Feeling** | Worried about marketing spend efficiency and afraid of wasting the ad budget. |
-| **Seeing** | Multiple campaigns running simultaneously, fragmented costs, and performance fluctuating daily. |
-| **Saying & Doing** | Constantly asking for key metrics: "What is the ROAS, CTR, CPC, and revenue for each campaign?" |
-| **Pains** | Difficulty in evaluating the true effectiveness of individual campaigns. |
-| **Gains** | The ability to easily see budget allocation by SKU and detailed ROAS. |
-| **Stakeholder Need** | Needs to immediately answer: "Which campaign is the most effective?" and "Which SKU generates actual revenue?" |
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b7f11f7f-f51b-4a95-ac39-a132b10c8917" />
 
 ## 2️⃣ Define Point of View (POV)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/edbd878b-89e0-4f57-9aa8-8c0a11c204bc" />
 
-To solve the business problem, I established the core metrics and analytical perspectives required for the dashboard.
-
-* **North Star Metrics:** **ROAS (Return on Ad Spend)** . This metric perfectly bridge the gap between marketing expenses and actual sales performance.
-* **Key Analytical Perspectives (Dimensions):**
-    * **Overview (Time Trends):** Evaluating the overall health of marketing campaigns and budget pacing over time.
-    * **Campaign Level:** Analyzing ad efficiency (CTR, CPC, Cost per Inbox) to identify the most cost-effective campaigns.
-    * **Product (SKU) Level:** Pinpointing exactly which SKUs generate the highest revenue so stakeholders can confidently reallocate the ad budget.
-* **Growth Formula (Driving ROAS):**
-    * ROAS improves when high-converting SKUs receive a larger share of the budget.
-    * ROAS improves with higher ad engagement quality (higher CTR, lower Cost per Interaction).
-    * ROAS improves when total revenue scales faster than the overall ad spend.
  
 <br>
 
