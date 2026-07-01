@@ -49,7 +49,9 @@ These connect to shared Dimension tables for dates, products, and campaigns.
 
 To ensure this dashboard delivers real business value rather than just displaying raw numbers, I applied a structured Design Thinking approach. This helped bridge the gap between technical data modeling and the actual needs of the business stakeholders (Marketing & Sales Managers).
 ## 1️⃣ Empathize
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b7f11f7f-f51b-4a95-ac39-a132b10c8917" />
+<img width="847" height="476" alt="image" src="https://github.com/user-attachments/assets/6841479d-39dc-4ea3-bf3a-26bbdbc2e132" />
+<img width="847" height="476" alt="image" src="https://github.com/user-attachments/assets/7cbb8fd9-7388-41c5-905b-61b4f9dce7c5" />
+
 
 ## 2️⃣ Define Point of View (POV)
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/edbd878b-89e0-4f57-9aa8-8c0a11c204bc" />
